@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1462571687 source:c:\users\haris\onedrive\college stuff\mac 125 (c++ advanced)\tic tac toe(prof)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	"Game.h"
+	<ctime>
+
+1462507703 source:c:\users\haris\onedrive\college stuff\mac 125 (c++ advanced)\tic tac toe(prof)\src\game.cpp
+	"Game.h"
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<cmath>
+
+1462499687 c:\users\haris\onedrive\college stuff\mac 125 (c++ advanced)\tic tac toe(prof)\include\game.h
+
